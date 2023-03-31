@@ -123,14 +123,56 @@
 
 // Q NO: 18
 
-var backeryItems = ["cake", "apple pie", "cookie","chips","patties"];
-var search = prompt("search backery items")
+// var backeryItems = ["cake", "apple pie", "cookie","chips","patties"];
+// var search = prompt("search backery items")
+// const backery = backeryItems.forEach((item)=>{
+//     if(search.toLowerCase() == item){
+//         console.log(item)
+// }
+//     })
 
-if(search.toUpperCase() == backeryItems){
-    console.log(backeryItems)
-}else if(search.toLowerCase() == backeryItems){
-    console.log(backeryItems)
-}else{
-    console.log("we are sorry")
+// Q NO: 19
 
-}
+// var car = "car"
+// var cab = "cab"
+// const compareCar = car.localeCompare(cab)
+// if(compareCar){
+//     console.log("car is greater then cab")
+// }else{
+//     console.log("car is less then cab")
+
+// }
+
+// Q NO: 20
+
+// var userPassword = prompt('Ener your password')
+// var num = [1,2,3,4,5,6,7,8,9,0]
+// console.log(num.includes())
+
+// if(userPassword.length < 6 ){
+// console.log("Password must be at least 6 characters long.")
+// }else if(){
+// console.log("Password must be not iclude number in first")
+
+// }
+
+// Q NO: 21
+
+// var university = "“University of Karachi”"
+// var universitySplit = university.split('')
+// console.log(universitySplit)
+
+// Q NO: 22
+
+// var userInput = 'Pakistan'
+// console.log(userInput.charAt(userInput.length -1))
+
+// Q NO: 23
+
+// const quote = "You have a string “The quick brown fox jumps over the lazy dog”."
+// let sample = /the/g
+// let match = quote.toLowerCase().match(sample).length
+// console.log(match)
+
+// Q NO: 24
+
